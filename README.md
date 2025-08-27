@@ -81,6 +81,4 @@ The project's final results, including the accuracy matrices for both tasks and 
 
 * **Best Feature Extractor:** ViT-Base, with an accuracy of **84.68%**.
 * **Task 1 Approach:** A combination of "LWP Hard" and "LWP Soft" methods with Mahalanobis distance.
-* **Task 2 Approach:** A combination of "$T^2PL$ & RandMix," achieving an accuracy of **81.7%** with the final model.
-
-For more details on the implementation and results, please refer to the full report and the Jupyter Notebooks.
+* **Task 2 Approach:** A combination of "T^2PL & RandMix",  achieving an accuracy of **81.7%** with the final model.
